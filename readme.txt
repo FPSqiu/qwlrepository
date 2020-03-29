@@ -6,4 +6,5 @@ jingdong is a bad pro
 change add not to commit 
 long time no see
 i m a boy
-you 
+window and ios
+
